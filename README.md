@@ -1,4 +1,4 @@
-# Cheat-Sheets
+# Sheets and Tools
 
 ## Data Analysis
 Pandas Cheat Sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
